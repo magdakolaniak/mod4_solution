@@ -1,0 +1,15 @@
+.category-button {
+  background-color: rgb(174, 164, 201);
+  padding: 20px;
+  cursor: pointer;
+}
+.nav-click {
+  font-size: large;
+  font-weight: bold;
+  height: 20px;
+  width: 90px;
+  padding: 5px;
+  margin-bottom: 10px;
+  text-decoration: none !important;
+  background-color: rgb(174, 154, 206);
+}

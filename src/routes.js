@@ -26,7 +26,7 @@
           ],
         },
       })
-      .state('item', {
+      .state('items', {
         url: '/categories/{categoryShortName}',
         templateUrl: 'src/restaurant/templates/items.template.html',
         controller: 'itemsController as itemsCtrl',
